@@ -1,3 +1,11 @@
+---
+tags:
+  - japanese
+  - duolingo
+  - learn
+---
+
+
 | Japanese   | English Meaning   |
 | ---------- | ----------------- |
 | do-ko      | where             |

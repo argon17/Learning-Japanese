@@ -1,0 +1,6 @@
+---
+tags:
+  - japanese
+  - kanji
+  - learn
+---

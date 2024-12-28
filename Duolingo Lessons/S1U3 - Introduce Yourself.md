@@ -1,3 +1,10 @@
+---
+tags:
+  - japanese
+  - duolingo
+  - learn
+---
+
 When addressing someone, we use *sa-n* after their name to show respect.
 Ken-san, konnichiwa -> Ken, hello
 

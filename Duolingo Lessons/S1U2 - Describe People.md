@@ -1,3 +1,10 @@
+---
+tags:
+  - japanese
+  - duolingo
+  - learn
+---
+
 Japanese doesn't have words like a or the.
 For example, the word *sen-se-i* can mean both teacher and a teacher.
 

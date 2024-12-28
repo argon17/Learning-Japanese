@@ -1,3 +1,10 @@
+---
+tags:
+  - japanese
+  - learn
+---
+
+
 Reference - https://youtu.be/8YV8KmfBbBM
 ## 1. Japanese Pronunciation
 ### **Kana - Japanese Writing System**

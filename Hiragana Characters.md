@@ -1,3 +1,11 @@
+---
+tags:
+  - japanese
+  - hiragana
+  - learn
+---
+
+
 Reference - https://youtu.be/6p9Il_j0zjc
 ### Vowels
 | Character | Sound | Ideas                                              |
@@ -45,6 +53,7 @@ Reference - https://youtu.be/6p9Il_j0zjc
 | **つ**     | tsu   | similar to 'tsu' in 'tsunami' | **づ**        | zu                 |
 | **て**     | te    | tail                          | **で**        | de                 |
 | **と**     | to    | tornado                       | **ど**        | do                 |
+
 chiisai tsu (small つ)is used to prolong the consonant that comes after it
 
 | Japanese Writing | Japanese Pronunciation | English Meaning |

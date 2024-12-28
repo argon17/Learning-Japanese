@@ -1,3 +1,11 @@
+---
+tags:
+  - japanese
+  - duolingo
+  - learn
+---
+
+
 | Japanese         | English Meaning |
 | ---------------- | --------------- |
 | ni-ho-n          | Japan           |
@@ -16,4 +24,4 @@
 | Japanese                  | English Meaning  |
 | ------------------------- | ---------------- |
 | kanada wa chiisai desu ka | Is Canada small? |
-| kore wa nihon desu        | Japan is small   |
+| kore wa nihon desu        | This is Japan    |

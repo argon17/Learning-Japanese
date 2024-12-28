@@ -1,3 +1,10 @@
+---
+tags:
+  - japanese
+  - duolingo
+  - learn
+---
+
 Using *wa* after a word makes it the topic of the sentence. The rest of the sentence is a comment about it.
 
 | Japanese               | English Meaning |

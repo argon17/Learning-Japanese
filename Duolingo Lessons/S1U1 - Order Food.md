@@ -1,3 +1,10 @@
+---
+tags:
+  - japanese
+  - "#duolingo"
+  - learn
+---
+
 ### Words
 
 | Japanese           | English Meaning   |
